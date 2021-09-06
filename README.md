@@ -28,7 +28,8 @@ The App lands you to an appealing Screen, in which the user can preview his/her 
 
 # 📸 Preview
 
-![Screenshot of Tesla App](./assets/app-mockup.jpeg)
+<!-- ![Screenshot of Tesla App](./assets/app-mockup.jpeg =250x250) -->
+<img src="./assets/app-mockup.jpeg" width="300" height="600" />
 <br/>
 
 <br/>
@@ -64,7 +65,9 @@ Before starting you need to have [Git](https://git-scm.com) and [Node](https://n
 ```bash
   npm start
 ```
+
 - Run on device or emulator
+
 ```bash
   Choose either "Run on Android device/emulator" or "Run on iOS simulator" as per your environment.
 ```
