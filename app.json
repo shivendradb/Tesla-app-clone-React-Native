@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tesla-app-clone",
+    "slug": "tesla-app-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tesla-app-clone"
+}
